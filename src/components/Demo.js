@@ -2,7 +2,7 @@ import React from 'react'
 // import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 import { useRef } from 'react'
 import emailjs from '@emailjs/browser'
-import './Demo.css'
+import './Demo.scss'
 
 const Contact = () => {
   
