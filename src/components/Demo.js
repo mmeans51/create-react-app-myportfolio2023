@@ -57,7 +57,7 @@ const Contact = () => {
                     required
                   />
                 </li>
-                <li>
+                <li className='half'>
                   <input
                     placeholder="Subject"
                     type="text"
