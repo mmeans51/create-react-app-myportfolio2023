@@ -13,15 +13,15 @@ const Footer = () => {
                         <a href='#about'>About</a>
                     </li>
                     <li className='nav-item'>
-                        <a href='#testimonials'>Testimonials</a>
+                        <a href='#myworklist'>My Work</a>
                     </li>
                     <li className='nav-item'>
-                        <a href='#demo'>Demo</a>
+                        <a href='#contact'>Contact Me</a>
                     </li>
                 </ul>
                 <div className='bottom'>
                     <span className='line'></span>
-                    <p>2020 Execute, Inc. All rights reserved</p>
+                    <p>Thanks For Coming</p>
                 </div>
             </div>
         </div>

@@ -30,10 +30,10 @@ const Navbar = () => {
                         <a href='#about' onClick={closeMenu}>About</a>
                     </li>
                     <li className='nav-item'>
-                        <a href='#mywork' onClick={closeMenu}>My Work</a>
+                        <a href='#myworklist' onClick={closeMenu}>My Work</a>
                     </li>
                     <li className='nav-item'>
-                        <a href='#contactme' onClick={closeMenu}>Contact Me</a>
+                        <a href='#contact' onClick={closeMenu}>Contact Me</a>
                     </li>
                 </ul>
             </nav>

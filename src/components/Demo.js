@@ -2,7 +2,7 @@ import React from 'react'
 // import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 import { useRef } from 'react'
 import emailjs from '@emailjs/browser'
-import './Demo.scss'
+import './Demo.css'
 
 const Contact = () => {
   
@@ -33,7 +33,7 @@ const Contact = () => {
 
   return (
     <>
-      <div className="container contact-page">
+      <div className="container contact-page" id='contact'>
         <div className="text-zone">
           <h1>
            

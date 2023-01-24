@@ -5,7 +5,7 @@ import { Work } from "../data"
 
 const Myworklist = () => {
     return (
-        <div className="mw">
+        <div className="mw" id="myworklist">
             <div className="mw-text">
                 <h1 className="mw-title">My Work</h1>
                 <p className="mw-description">
