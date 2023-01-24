@@ -7,7 +7,7 @@ const Myworklist = () => {
     return (
         <div className="mw" id="myworklist">
             <div className="mw-text">
-                <h1 className="mw-title">My Work</h1>
+                <h2 className="mw-title">My Work</h2>
                 <p className="mw-description">
                     Below you will see a few screen grabs of some projects i made or contributed too during the coding Boot camp. the images are link to the active webpage.
                     Also, head over to my git page at github.com/mmeans51 to see my other projects.
