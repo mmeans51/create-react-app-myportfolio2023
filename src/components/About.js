@@ -13,17 +13,17 @@ const About = () => {
                     <h2>About</h2>
                     <span className='line'></span>
                     <p>
-            I'm very ambitious front-end developer looking for a role in
+            I'm a very ambitious front-end developer looking for a role in an
             established IT company with the opportunity to work with the latest
             technologies on challenging and diverse projects.
             </p>
             <p>
             I'm quietly confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+            improving my chops one design problem at a time. In my free time I like
+             to create music, go on hikes, and enjoy the outdoors
+
             </p>
-          <p>
-            In my free time I like to create music, go on hikes, and enjoy the outdoors
-            </p>
+          
                     {/* <button className='button'>Explore More</button> */}
                 </div>
             </div>

@@ -4,11 +4,11 @@ import "./Mywork.css"
 const Mywork = ({img, link}) => {
     return (
         <div className="work">
-            <div className="mw-browser">
+            {/* <div className="mw-browser">
                 <div className="mw-circle"></div>
                 <div className="mw-circle"></div>
                 <div className="mw-circle"></div>
-            </div>
+            </div> */}
             
             <a href={link} target="/" rel="noreferrer">
                 <img src={img} alt=" " className="w-img" />

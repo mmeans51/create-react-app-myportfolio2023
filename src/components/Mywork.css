@@ -5,10 +5,13 @@
     border: 2px solid rgb(243, 242, 242);
     border-radius: 10px 10px 0px 0px;
     overflow: hidden;
-    right: 100px;
-   
-    
+    right: 100px;   
 }
+
+.work {
+  -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+  box-shadow: 5px 5px 15px 5px #000000;
+  }
 
 .mw-browser{
     height: 20px;
