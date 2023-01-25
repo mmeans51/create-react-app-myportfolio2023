@@ -46,7 +46,7 @@ const Navbar = () => {
         <li>
           <a
             href="https://www.linkedin.com/in/michael-means-340240113/"
-            target="_blank"
+            // target="_blank"
             rel="noreferrer"
           >
             <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
@@ -55,14 +55,14 @@ const Navbar = () => {
         <li>
           <a
             href="https://github.com/mmeans51"
-            target="_blank"
+            // target="_blank"
             rel="noreferrer"
           >
             <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
           </a>
           <a
             href="https://www.instagram.com/cole_means/"
-            target="_blank"
+            // target="_blank"
             rel="noreferrer"
           >
             <FontAwesomeIcon icon={faInstagram} color="#4d4d4e" />
