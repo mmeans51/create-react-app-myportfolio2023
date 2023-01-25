@@ -1,7 +1,12 @@
 import React, { useState } from 'react'
 import { FaBars, FaTimes } from 'react-icons/fa'
 import logo from './images/Michael Means-logos_white.png'
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {
+    faLinkedin,
+    faGithub,
+    faInstagram
+  } from '@fortawesome/free-brands-svg-icons'
 import './Navbar.css'
 
 const Navbar = () => {
@@ -37,6 +42,35 @@ const Navbar = () => {
                     </li>
                 </ul>
             </nav>
+            <ul>
+        <li>
+          <a
+            href="https://www.linkedin.com/in/michael-means-340240113/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://github.com/mmeans51"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
+          </a>
+          <a
+            href="https://www.instagram.com/cole_means/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <FontAwesomeIcon icon={faInstagram} color="#4d4d4e" />
+          </a>
+        </li>
+        <li>
+        </li>
+      </ul>
         </div>
     )
 }
