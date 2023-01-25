@@ -7,7 +7,8 @@
 
     ul {
       padding: 0;
-      margin: 0;
+      margin: 100;
+     
     }
       li {
         padding: 0;
@@ -21,10 +22,11 @@
       }
   
       li.half {
-        width: 50%;
+        width: 25%;
         margin-left: 2%;
         float: left;
         clear: none;
+        columns: auto;
       } 
 
       li.half {
@@ -35,13 +37,14 @@
        li.subject  {
           -webkit-box-shadow: 5px 5px 15px 5px #000000; 
           box-shadow: 5px 5px 15px 5px #000000;
+          
           }
       
     
   
     input[type='text'],
     input[type='email'] {
-      width: 100%;
+      width: 50%;
       border: 0;
       background: white;
       height: 50px;
@@ -53,7 +56,7 @@
 
     input[type='text'],
     input[type='Subject'] {
-      width: 100%;
+      width: 50%;
       border: 0;
       background: white;
       height: 50px;
@@ -84,7 +87,7 @@
         margin-left: 2%;
     }
   
-    /* .flat-button {
+     .flat-button {
       color: black;
       font-size: 11px;
       letter-spacing: 3px;
@@ -95,13 +98,12 @@
       border-radius: 4px;
       background: 0 0;
       text-transform: uppercase;
-      float: right;
       text-align: center;
       margin-right: 10px;
       -webkit-box-shadow: 5px 5px 15px 5px #000000; 
         box-shadow: 5px 5px 15px 5px #000000;
     }
-
+/*
     .flat-button:active {
       background: gold;
     }
