@@ -40,7 +40,7 @@ const Contact = () => {
             
           </h1>
           <p>
-            If interested in scheduleing a phone call, zoom call,
+            If interested in scheduleing a phone call, zoom meeting,
              or would like any other info, please feel free to send me a message!
           </p>
           <div className="contact-form">

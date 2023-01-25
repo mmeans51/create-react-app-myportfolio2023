@@ -19,11 +19,12 @@
    
 
 .about .container .certificate {
-    width: 400px;
+    width: 350px;
 }
 
 .about h2 {
     font-size: 3rem;
+    text-shadow: 2px 2px 12px black;
 }
 
 .about .col-2 {
@@ -32,10 +33,12 @@
     justify-content: center;
     align-items: center;
     padding: 3rem;
+    text-shadow: 2px 2px 12px black;
 }
 
 .about .col-2 p:first-of-type {
     margin: 2rem 0;
+    text-shadow: 2px 2px 12px black;
 }
 
 
