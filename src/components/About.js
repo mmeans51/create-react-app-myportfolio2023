@@ -18,9 +18,9 @@ const About = () => {
             technologies on challenging and diverse projects.
             </p>
             <p>
-            I'm quietly confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time. In my free time I like
-             to create music, go on hikes, and enjoy the outdoors
+            I'm confident, naturally curious, and perpetually working on
+            improving my chops, one design problem at a time. In my free time I enjoy
+             to create music, go on hikes, and enjoy the outdoors.
 
             </p>
           

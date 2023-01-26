@@ -19,7 +19,7 @@
    
 
 .about .container .certificate {
-    width: 350px;
+    width: 500px;
 }
 
 .about h2 {
@@ -47,7 +47,9 @@
     .about .container {
         grid-template-columns: 1fr;
     }
-
+    .about .container .certificate {
+        width: 99%;
+    }
     .about .container {
         width: 100%;
     }
@@ -58,7 +60,7 @@
     }
 
     .about .container .col-2 {
-        padding: 0;
+        padding: 10;
     }
 
     .about button {
