@@ -19,8 +19,8 @@
     margin: auto;
     height: 100%;
     padding: 0 1rem;
-    -webkit-animation: slide-in-left 900ms cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-	        animation: slide-in-left 900ms cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+    -webkit-animation: slide-in-left 900ms cubic-bezier(0.250, 0.460, 0.450, 0.940)1s both;
+	        animation: slide-in-left 900ms cubic-bezier(0.250, 0.460, 0.450, 0.940)1s both;
 }
 @-webkit-keyframes slide-in-top {
     0% {
