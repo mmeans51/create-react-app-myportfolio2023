@@ -8,6 +8,7 @@ const Myworklist = () => {
         <div className="mw" id="myworklist">
             <div className="mw-text">
                 <h2 className="mw-title">My Work</h2>
+                <span className='line'></span>
                 <p className="mw-description">
                     Below you will see a few screen grabs of some projects i made or contributed too during the coding Boot camp. the images are link to the active webpage.
                     Also, head over to my git page at github.com/mmeans51 to see my other projects.

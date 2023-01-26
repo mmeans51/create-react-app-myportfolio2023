@@ -35,10 +35,8 @@ const Contact = () => {
     <>
       <div className="container contact-page" id='contact'>
         <div className="text-zone">
-          <h1>
-           
-            
-          </h1>
+        <h2>Contact</h2>
+                    <span className='line'></span>
           <p>
             If interested in scheduleing a phone call, zoom meeting,
              or would like any other info, please feel free to send me a message!

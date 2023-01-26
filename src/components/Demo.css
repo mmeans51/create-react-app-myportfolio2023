@@ -4,6 +4,15 @@
     align-items: center;
     
 }
+ h2 {
+  font-size: 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem;
+  text-shadow: 2px 2px 12px black;
+}
 
     ul {
       padding: 0;
