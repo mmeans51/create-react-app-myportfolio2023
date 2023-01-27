@@ -34,11 +34,13 @@
     align-items: center;
     padding: 3rem;
     text-shadow: 2px 2px 12px black;
+    text-align: center;
 }
 
 .about .col-2 p:first-of-type {
     margin: 2rem 0;
     text-shadow: 2px 2px 12px black;
+    
 }
 
 
