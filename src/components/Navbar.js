@@ -41,12 +41,17 @@ const Navbar = () => {
           </li>
           <li className="nav-item">
             <a href="#myworklist" onClick={closeMenu}>
-              My Work
+              Portfolio
             </a>
           </li>
           <li className="nav-item">
             <a href="#contact" onClick={closeMenu}>
-              Contact Me
+              Contact
+            </a>
+          </li>
+          <li className="nav-item">
+            <a href="https://my.indeed.com/p/michaelm-r22zdlo" onClick={closeMenu}>
+              Resume
             </a>
           </li>
           <li className="nav-item">
