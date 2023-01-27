@@ -11,7 +11,7 @@ const Myworklist = () => {
                 <span className='line'></span>
                 <p className="mw-description">
                     Below you will see a few screen grabs of some projects i made or contributed to. The images are links to the active webpage.
-                    Also, head over to my <a href="https://github.com/mmeans51?tab=repositories">git page</a>github.com/mmeans51 to see my other projects.
+                    Also, head over to my <a href="https://github.com/mmeans51?tab=repositories">GIT PAGE</a> to see my other projects.
                 </p>
             </div>
             <div className="mw-list">
