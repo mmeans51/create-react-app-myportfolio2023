@@ -15,11 +15,12 @@
     "react-dom": "^16.8.6",
     "react-icons": "^4.7.1",
     "react-scripts": "^3.0.1",
+    "typescript": "^5.1.6",
     "yarn": "^1.22.19"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "run-p build:**",
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
     "build:app": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
